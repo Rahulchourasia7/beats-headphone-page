@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    background-color:  #0f0f10;;
+    outline: 0;
+}
+
+    
+
+button:hover{
+    cursor: pointer;
+}
+.menu-list {
+    
+    justify-content: center;
+align-items: center;
+list-style: none;
+
+}
+.list {
+    display: flex;
+    gap: 5%;
+    list-style: none;
+    margin-left: 50%;
+    padding: 2%;
+    cursor: pointer;
+}
+.shop {
+    
+    background-color: #2f2f30;
+
+    padding: 5px 30px;
+
+}
+.main-img {
+position: absolute;
+top: 0%;
+left: 25%;
+height: 600px;
+}
+.beats-logo {
+    display: flex;
+    position: absolute;
+    left: 25%;
+    
+   
+
+}
+
+.on-ear {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50%;
+
+}
+.beats-3 {
+    justify-items: center;
+    padding-left: 48%;
+    padding-top: 2%;
+    font-size: 50px;
+}
+.overview {
+    justify-items: center;
+    padding-left: 48%;
+    padding-top: 2%;
+    font-size: 25px;
+}
+.summary {
+    justify-items: center;
+    padding-left: 48%;
+    padding-top: 1%;
+    font-size: 15px;
+}
+.add-to-bag{
+  padding: 5px 40px;
+    border-radius: 5px;
+    background-color: #2f2f30;
+    margin-left: 48%;
+    height: 50px;
+    margin-top: 2%;
+    list-style: none;
+
+}
+.logo-apple {
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+    padding: 10%;
+    list-style: none;
+}
+.specs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+}
+.bluetooth1 {
+    padding: 1%;
+    padding-left: 30%;
+
+}
+.battery1{
+    padding: 1%;
+    padding-left: 28%;
+}
+.charger1 {
+    padding: 1%;
+    padding-left: 28%;
+}
+.microphone1 {
+    padding: 1%;
+    padding-left: 30%;
+}
+.specs1 {
+    position: absolute;
+    left: 50%;
+    top: 135%;
+}
+.case-word {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5%;
+}
+.beats-case-review {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8%;
+    padding-left: 30%;
+}
+.case-img {
+    display: flex;
+   top: 220%;
+   left: 28%;
+    position: absolute;
+    height: 400px;
+    width: 350px;
+}
+.more-info {
+    padding: 5px 25px;
+    border-radius: 4%;
+    position: absolute;
+    left: 52%;
+    top: 250%;
+    background-color: #2f2f30;
+}
+.group-icon {
+    background-color: #2f2f30;
+}
+
+.box44 {
+   padding: 20%;
+}
+.line {
+    color: white;
+    text-align: left;
+    border: 100px solid #2f2f30;
+    background-color: #2f2f30;
+}
+.oval-beat {
+    background-color: #2f2f30;
+    position: absolute;
+    top: 305%;
+    left: 50%;
+    
+}
+.buy-now {
+    position: absolute;
+    top: 327%;
+    left: 28%;
+    background-color: #121213;
+    border: #2f2f30;
+    padding: 5px 25px;
+    
+
+
+}
+.shopping-logo {
+    background-color: #0b0b0c;
+    border: none;
+ 
+}
+.choose {
+    position: absolute;
+    top: 350%;
+    left: 40%;
+   
+}
+.box-headphone {
+    display: flex;
+    gap: 5%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.serial-no {
+    padding: 1%;
+    display: flex;
+    gap: 9%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.product-list {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    list-style: none;
+    position: absolute;
+    right: 70%;
+    cursor: pointer;
+    gap: 6px;
+    
+
+}
+.products {
+    padding: 3%;
+    font-size: 25px;
+}
+.support-list {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    list-style: none;
+    position: absolute;
+    right: 50%;
+    cursor: pointer;
+    gap: 6px;
+    
+}
+.support {
+    padding: 3%;
+    font-size: 25px;
+}
+
+.email-butt {
+position: absolute;
+left: 60%;
+font-size: 15px;
+padding: 6px 300px;
+background-color: #2f2f30;
+padding-left: 10px;
+}
+.png {
+    display: flex;
+    position: absolute;
+    left: 60%;
+    gap: 4%;
+    list-style: none;
+    cursor: pointer;
+    top: 415%;
+}
+.right-arrow {
+    position: absolute;
+    left: 70%;
+    background-color: #2f2f30;
+    top: 405%;
+    cursor: pointer;
+}
+.subscribe-butt {
+    position: absolute;
+    left: 72%;
+    top: 405%;
+    background-color: #2f2f30;
+    cursor: pointer;
+    font-size: 15px;
+}
+.beats {
+    position: absolute;
+    left: 10%;
+}
